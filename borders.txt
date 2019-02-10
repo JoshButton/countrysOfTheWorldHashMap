@@ -1,0 +1,13 @@
+Spain : Portugal
+Spain : France
+Italy :Switzerland
+Italy : France
+Slovenia:  Italy
+United Kingdom: Ireland
+Switzerland : Austria
+Switzerland : Germany
+Germany : Belgium
+Belgium :  France
+Germany : Poland
+Germany : Denmark
+Germany : France
