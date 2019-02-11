@@ -8,14 +8,14 @@ public class State implements Comparable<State> {
 	private String capital;
 	private long population;
 	private long area;
-	private ArrayList<String> neigbours;
+	private ArrayList<String> neighbours;
 
-	public State(String name, String capital, long population, long area) {
+	State(String name, String capital, long population, long area) {
 		this.name = name;
 		this.capital = capital;
 		this.population = population;
 		this.area = area;
-		neigbours = new ArrayList<String>();
+		neighbours = new ArrayList<String>();
 	}
 
 	public int compareTo(State arg0) {
@@ -23,24 +23,35 @@ public class State implements Comparable<State> {
 		return 0;
 	}
 
-	public String getName() {
+	String getName() {
 		return name;
 	}
 
-	public String getCapital() {
+	String getCapital() {
 		return capital;
 	}
 
-	public Long getPopulation() {
+	Long getPopulation() {
 		return population;
 	}
 
-	public Long getArea() {
+	Long getArea() {
 		return area;
 	}
 
-	public void setNeighbour(String newNeighbour) {
-		neigbours.add(newNeighbour);
+	void setNeighbour(String newNeighbour) {
+		neighbours.add(newNeighbour);
 	}
 
+	int getNoNeighbours(){
+		return neighbours.size();
+	}
+
+	boolean isNeighbourOf(String country) {
+			return neighbours.contains(country);
+	}
+
+	String getNeighbours() {
+		return neighbours.toString().replace("[","").replace("]","");
+	}
 }

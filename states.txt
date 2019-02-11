@@ -1,0 +1,195 @@
+Afghanistan :  	Kabul  	: 250000 : 31056997
+Albania : 	Tirane 	: 11100 :	3581655
+Algeria :	Algiers 	: 919590 :	32930091
+Andorra :	Andorra la Vella :	181 : 	71201
+Angola :	Luanda 	: 481351  :	12127071
+Antigua and Barbuda :	St. John's 	: 171  : 	69108
+Argentina :	Buenos Aires 	: 1068296  :	39921833
+Armenia :	Yerevan 	: 11506   :	2976372
+Australia: 	Canberra 	: 2967893  :	20264082
+Austria :	Vienna 	:32382  :	8192880
+Azerbaijan: 	Baku :	33436  :	7961619
+Bahamas :	Nassau 	: 5382  :	303770
+Bahrain :	Al-Manámah :	257  :	698585
+Bangladesh: 	Dhaka :	55598  :	147365352
+Barbados :	Bridgetown :	166  :	279912
+Belarus :	Minsk 	: 80154  :	10293011
+Belgium :	Brussels :	11787  :	10379067
+Belize :	Belmopan :	8867  :	287730
+Benin :	Porto-Novo 	: 43483  :	7862944
+Bhutan :	Thimphu 	: 18147  :	2279723
+Bolivia :	La Paz 	: 424162  :	8989046
+Bosnia and Herzegovina : 	Sarajevo : 	19741 : 	4498976
+Botswana :	Gaborone  :	231803  :	1639833
+Brazil :	Brasília  :	3286470  :	188078227
+Brunei :	Bandar Seri Begawan :	2228 : 	379444
+Bulgaria :	Sofia 	: 42822  :	7385367
+Burkina Faso : 	Ouagadougou : 	105869 : 	13902972
+Burundi :	Bujumbura 	: 10745  :	8090068
+Cambodia :	Phnom Penh 	: 69900  :	13881427
+Cameroon :	Yaoundé 	: 183567  :	17340702
+Canada :	Ottawa 	: 3855081  :	33098932
+Cape Verde : 	Praia :	1557  :	420979
+Central African Republic : 	Bangui :	240534  :	4303356
+Chad :	N'Djamena 	: 495752  :	9944201
+Chile :	Santiago :	292258  :	16134219
+China :	Beijing :	3705386  :	1313973713
+Colombia: 	Bogotá :	439733  :	43593035
+Comoros :	Moroni 	: 838  :	690948
+Congo :	Brazzaville :	132046 :	3702314
+Congo (Zaire) : 	Kinshasa : 	905563 :	62660551
+Costa Rica : 	San José :	19730 :	4075261
+Côte d'Ivoire: 	Yamoussoukro :	124502 :	17654843
+Croatia: 	Zagreb 	: 21831 :	4494749
+Cuba :	Havana 	: 42803 :	11382820
+Cyprus: 	Nicosia :	3571 : 	784301
+Czech Republic: 	Prague : 	30450 :	10235455
+Denmark :	Copenhagen 	: 16639 :	5450661
+Djibouti :	Djibouti 	: 8880 :	486530
+Dominica :	Roseau 	: 291 :	68910
+Dominican Republic: 	Santo Domingo : 	18815 :	9183984
+East Timor :	Dili 	:  5794 :	1062777
+Ecuador :	Quito 	: 109483 :	13547510
+Egypt :	Cairo 	: 386660 :	78887007
+El Salvador: 	San Salvador : 	8124 : 	6822378
+Equatorial Guinea :	Malabo 	: 10830 :	540109
+Eritrea :	Asmara 	: 46842 :	4786994
+Estonia :	Tallinn 	: 17462 : 	1324333
+Ethiopia :	Addis Ababa :	435184 : 	74777981
+Fiji :	Suva 	: 7054 	: 905949
+Finland :	Helsinki : 	130558 : 	5231372
+France :	Paris 	: 211208 :	60876136
+Gabon :	Libreville 	: 103346  :	1424906
+Gambia :	Banjul 	: 4363 	: 1641564
+Georgia :	Tbilisi :	26911 :	4661473
+Germany :	Berlin 	: 137846 : 	82422299
+Ghana :	Accra 	: 92456 :	22409572
+Greece :	Athens : 50942 :	10688058
+Grenada :	St. George's : 	133 : 	89703
+Guatemala : 	Guatemala City : 	42042 :	12293545
+Guinea :	Conakry :	94925 :	9690222
+Guinea-Bissau : 	Bissau : 	13946 : 	1442029
+Guyana 	: Georgetown 	: 83000  :	767245
+Haiti :	Port-au-Prince 	: 10714  :	8308504
+Honduras  :	Tegucigalpa :	43278  :	7326496
+Hungary :	Budapest 	: 35919  :	9981334
+Iceland :	Reykjavik 	: 39768  :	299388
+India :	New Delhi 	: 1269338  :	1095351995
+Indonesia :	Jakarta : 741096  :	245452739
+Iran :	Tehran 	: 636293  :	68688433
+Iraq :	Baghdad 	: 168753  :	26783383
+Ireland :	Dublin 	: 27135  :	4062235
+Israel :	Jerusalem :	8019  :	6352117
+Italy :	Rome 	: 116305  :	58133509
+Jamaica :	Kingston : 	4244 : 	2758124
+Japan :	Tokyo 	:  145882  :	127463611
+Jordan :	Amman 	: 35637  :	5906760
+Kazakhstan: 	Astana :	1049150 : 	15233244
+Kenya :	Nairobi 	: 224961  :	34707817
+Kiribati :	Tarawa 	: 313  :	105432
+Korea North: 	Pyongyang : 	46540 : 	23113019
+Korea South :	Seoul 	:  38023  :	48846823
+Kuwait 	:Kuwait City 	:6880  :	2418393
+Kyrgyzstan: 	Bishkek :	76641 : 	5213898
+Laos 	:Vientiane 	: 91428  :	6368481
+Latvia :	Riga 	: 24938  :	2274735
+Lebanon :	Beirut 	: 4015  :	3874050
+Lesotho :	Maseru 	: 11720  :	2022331
+Liberia :	Monrovia :	43000  :	3042004
+Libya :	Tripoli 	:679358  :	5900754
+Liechtenstein: 	Vaduz : 	62  :	33987
+Lithuania :	Vilnius : 25174  :	3585906
+Luxembourg :	Luxembourg : 	998  :	474413
+Macedonia :	Skopje 	: 9781  :	2050554
+Madagascar :	Antananarivo : 	226656  :	18595469
+Malawi :	Lilongwe 	: 45745  :	13013926
+Malaysia :	Kuala Lumpur :	127316  :	24385858
+Maldives :	Malé 	:116  :	359008
+Mali :	Bamako 	:478764  :	11716829
+Malta :	Valletta :	122  :	400214
+Marshall Islands : 	Majuro : 	4577  :	60422
+Mauritania :	Nouakchott :	397953  :	3177388
+Mauritius :	Port Louis 	: 788  :	1240827
+Mexico :	Mexico City 	: 761602 : 	107449525
+Micronesia : 	Palikir 	: 271  :	108004
+Moldova :	Chisinau 	: 13067  :	4466706
+Monaco :	Monaco 	: 1  :32543
+Mongolia :	Ulan Bator 	:603905 : 	2832224
+Montenegro :	Cetinje :	5415  :	630548
+Morocco :	Rabat 	:172413  :	33241259
+Mozambique: 	Maputo :	309494 : 	19686505
+Myanmar: 	Rangoon 	: 261969  :	47382633
+Namibia :	Windhoek 	: 318694  :	2044147
+Nauru :	Yaren 	: 8  :	13287
+Nepal :	Kathmandu :	54363  :	28287147
+Netherlands: 	Amsterdam :	16033 : 	16491461
+New Zealand :	Wellington :	103737 : 	4076140
+Nicaragua :	Managua :	49998  :	5570129
+Niger :	Niamey 	: 489189  :	12525094
+Nigeria: 	Abuja :	356667  :	131859731
+Norway :	Oslo 	: 125181  :	4610820
+Oman :	Muscat 	: 82031  :	3102229
+Pakistan: 	Islamabad :	310401 : 	165803560
+Palau :	Koror 	: 177  :	20579
+Panama :	Panama City : 	30193 : 	3191319
+Papua New Guinea: 	Port Moresby : 	178703 : 	5670544
+Paraguay :	Asunción 	:  157046  :	6506464
+Peru :	Lima 	: 496223  :	28302603
+Philippines: 	Manila 	: 115830  :	89468677
+Poland :	Warsaw 	: 120728  :	38536869
+Portugal :	Lisbon 	: 35672  :	10605870
+Qatar :	Doha 	: 4416  :	885359
+Romania :	Bucharest :	91699 : 	22303552
+Russia :	Moscow 	: 6592735  :	142893540
+Rwanda :	Kigali 	: 10169  :	8648248
+St. Kitts and Nevis: 	Basseterre : 	101  :	39129
+St. Lucia :	Castries 	: 238  :	168458
+St. Vincent and the Grenadines: 	Kingstown : 	150 : 	117848
+Samoa :	Apia :	1137  :	176908
+San Marino: 	San Marino :	24  :	29251
+São Tomé and Príncipe: 	São Tomé :	386  :	193413
+Saudi Arabia: 	Riyadh 	: 756981  :	27019731
+Senegal 	: Dakar 	: 75749  :	11987121
+Serbia :	Belgrade 	: 34116  :	9396411
+Seychelles :	Victoria :	176  :	81541
+Sierra Leone: 	Freetown :	27699  :	6005250
+Singapore :	Singapore 	: 267  :	4492150
+Slovakia :	Bratislava 	: 18859  :5439448
+Slovenia :	Ljubljana 	: 7827 	 :2010347
+Solomon Islands : 	Honiara : 	10985 : 	552438
+Somalia :	Mogadishu 	:  246199  :	8863338
+South Africa :	Pretoria 	: 471008  :	44187637
+Spain :	Madrid 	: 194896  :	40397842
+Sri Lanka :	Colombo 	: 25332 : 	20222240
+Sudan :	Khartoum 	: 967493  :	41236378
+Suriname :	Paramaribo :	63039 : 	439117
+Swaziland :	Mbabane 	: 6704 	 : 1136334
+Sweden 	:Stockholm 	: 173731  :	9016596
+Switzerland :	Bern :	15942  :	7523934
+Syria :	Damascus 	: 71498  :	18881361
+Taiwan :	Taipei 	: 13892  :	23036087
+Tajikistan :	Dushanbe : 	55251 : 	7320815
+Tanzania :	Dodoma 	: 364898  :	37445392
+Thailand :	Bangkok 	: 198455 : 	64631595
+Togo :	Lomé 	: 21925  :	5548702
+Tonga :	Nuku'alofa :	289  :	114689
+Trinidad and Tobago :	Port-of-Spain : 	1980 : 	1065842
+Tunisia :	Tunis :	63170  :	10175014
+Turkey :	Ankara :	301382 : 	70413958
+Turkmenistan: 	Ashgabat : 	188455 : 	5042920
+Tuvalu 	:Funafuti 	: 10  :	11810
+Uganda :	Kampala 	: 91135 : 	28195754
+Ukraine :	Kiev :	233089 	 :46710816
+United Arab Emirates: 	Abu Dhabi : 	32000  :	2602713
+United Kingdom :	London 	: 94525  :	60609153
+United States :	Washington 	: 3718691  :	298444215
+Uruguay :	Montevideo 	: 68039  :	3431932
+Uzbekistan :	Tashkent :	172741  :	27307134
+Vanuatu :	Vila 	: 4710  :	208869
+Vatican City : Vatican City	 : 	1  :	932
+Venezuela: 	Caracas :	352143 	 :25730435
+Vietnam: 	Hanoi 	: 127243  :	84402966
+Western Sahara: undefined : 	  	102703 : 	278600
+Yemen :	Sanaá 	: 203849  :	21456188
+Zambia :	Lusaka : 	290584 : 	11502010
+Zimbabwe :	Harare 	: 150803  :	12236805 

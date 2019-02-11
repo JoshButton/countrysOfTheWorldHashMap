@@ -1,6 +1,6 @@
 Spain : Portugal
 Spain : France
-Italy :Switzerland
+Italy : Switzerland
 Italy : France
 Slovenia:  Italy
 United Kingdom: Ireland

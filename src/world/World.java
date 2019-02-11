@@ -1,10 +1,21 @@
+/**
+ This project demonstrates the use of HashMaps, namely LinkedHashMaps to preserve order because of the need for sorting.
+ I wanted to add a menu and allow user input but the deadline came around too fast this week. I will add these and the extended challenge at
+ a later date.
+More information and updates can be found on the github: https://github.com/JoshButton/countrysOfTheWorldHashMap
+ @author Joshua Button
+ @version 0.1
+ @date 06/02/2019
+ @website www.joshuabutton.co.uk
+ */
+
 package world;
 import java.io.*;
 import java.util.*;
 
 public class World  {
-	static Map<String,State> countries = new LinkedHashMap<String,State>();
-	static Map<String,State> tempCountries = new LinkedHashMap<String,State>();
+	private static Map<String,State> countries = new LinkedHashMap<>();
+	private static Map<String,State> tempCountries = new LinkedHashMap<String,State>();
 
 	public static void main(String[] args) {
 	  loadData();
@@ -17,15 +28,16 @@ public class World  {
 	  areaSort(countries);
 	  System.out.println("\nCountries of the world sorted by area:");
 	  printMap(countries);
-	  //Continue with borders file
-
+	  System.out.println("\nSpain has " + neighbours("Spain") + " bordering country(s)");
+	  System.out.println("\nSpain and France are neighbours: " + border("Spain", "France"));
+	  System.out.println("\nSpain and New Zealand are neighbours: " + border("Spain", "New Zealand"));
+	  System.out.println("\nList of Spain's bordering countries: " + getNeighbours("Spain"));
 	}
 
 	
 	private static void loadData() {
 		try {
 			//open the file having states string as a name
-
 			Scanner in = new Scanner(new FileReader("states.txt"));
 			String s = ""; 
 			//read the file line by line
@@ -90,7 +102,7 @@ public class World  {
 
 	public static double getArea(String s) { return countries.get(s).getArea(); }
 
-	public static void setBorder(String st1, String st2) {
+	private static void setBorder(String st1, String st2) {
 		countries.get(st1).setNeighbour(st2);
 		countries.get(st2).setNeighbour(st1);
 	}
@@ -128,23 +140,17 @@ public class World  {
 			i++;
 		}
 	}
-/**
-	public static int neighbours(String state) {
-		// TODO Auto-generated method stub
-		return 0;
+
+	private static int neighbours(String state) {
+		return countries.get(state).getNoNeighbours();
 	}
 
 
-	public static boolean border(String a, String b) {
-		// TODO Auto-generated method stub
-		return false;
+	private static boolean border(String a, String b) {
+		return countries.get(a).isNeighbourOf(b) || countries.get(b).isNeighbourOf(a);
 	}
 
-
-	public static String getNeighbours(String state) {
-		// TODO Auto-generated method stub
-		return null;
+	private static String getNeighbours(String state) {
+		return countries.get(state).getNeighbours();
 	}
- */
-
 }
